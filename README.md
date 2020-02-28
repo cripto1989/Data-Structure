@@ -8,15 +8,19 @@ This is a notebook about data structure applied in Python language, here we cove
 
 ### Linked List
 
-* [Syngly Linked List](../master/Singly%20Linked%20List.ipynb)
+* [Singly Linked List](../master/Singly%20Linked%20List.ipynb)
 * [Doubly Linked List](../master/Doubly%20Link%20List.ipynb)
 
 ### Search
 
-* [Syngly Linked List](../master/Binary%20Search.ipynb)
+* [Binary Search](../master/Binary%20Search.ipynb)
 
 ### Stack
 
-* [Syngly Linked List](../master/Stack.ipynb)
+* [Stack](../master/Stack.ipynb)
+
+### Queue
+
+* [Queue](../master/Queue.ipynb)
 
 ### Hash tables
